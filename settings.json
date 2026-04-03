@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Jnanasudhaserver.aternos.me",
-    "port": 59619",
+    "port": "59619",
     "version": "1.21.1",
     "try-creative": true
   },
